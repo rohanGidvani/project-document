@@ -1,0 +1,37 @@
+Title: Speed Runner
+
+Type of Game: Inf runner
+
+Platform: visual studio code
+
+Story: You run through a race but every lap makes you go faster
+
+Characters:
+
+PC - human running
+
+NPC: Obstacles stopping you. for example hurdles, or something
+
+Goal: Make it to the 10th lap, hardest lap
+
+
+Rules: - Overcome obstacles
+       - And win
+
+Controls: space bar to jump
+
+End: When player either hits obstacle, or finishes the race
+
+Balance: You cannot jump over the game, you can only jump so high
+	
+- Speed starts off slow, and increases over time
+
+Adaptivity: Speed increases over time, which makes you adapt to other situations 
+
+Feedback: if you lose you hit restart but every lap grants 100 points
+
+Every lap increases your points by 100
+
+Resources needed:Player running image, no background, remove.bg, obstacle images, image for background, image for restart and gamemover, image for lap1, lap2, lap, etc.
+
+Sound Effects: When players win, When Player jumps, When player beats game, When player dies etc.
